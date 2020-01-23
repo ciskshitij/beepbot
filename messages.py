@@ -1,0 +1,5 @@
+exception_msg = "Something went wrong."
+start_msg = "HI ! I am a chat bot. Please enter your name in @name format"
+location_msg = "We don't have your location data. Please enter your location in #city,country format."
+location_error = "Unable to find the location. Please enter your location again in #city, country format."
+country_err_msg = "This country is not supported right now."
